@@ -1,14 +1,14 @@
 {
-  "main.css": "/jmamegia/reactTest.git/static/css/main.9ee6e43f.chunk.css",
-  "main.js": "/jmamegia/reactTest.git/static/js/main.f831ab3d.chunk.js",
-  "main.js.map": "/jmamegia/reactTest.git/static/js/main.f831ab3d.chunk.js.map",
-  "runtime~main.js": "/jmamegia/reactTest.git/static/js/runtime~main.f29f441d.js",
-  "runtime~main.js.map": "/jmamegia/reactTest.git/static/js/runtime~main.f29f441d.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/jmamegia/reactTest.git/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/jmamegia/reactTest.git/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/jmamegia/reactTest.git/index.html",
-  "precache-manifest.d75b63dfd13b8e10761bba6e4ba7ec50.js": "/jmamegia/reactTest.git/precache-manifest.d75b63dfd13b8e10761bba6e4ba7ec50.js",
-  "service-worker.js": "/jmamegia/reactTest.git/service-worker.js",
-  "static/css/main.9ee6e43f.chunk.css.map": "/jmamegia/reactTest.git/static/css/main.9ee6e43f.chunk.css.map",
-  "static/media/logo.svg": "/jmamegia/reactTest.git/static/media/logo.5d5d9eef.svg"
+  "main.css": "/reactTest/static/css/main.9ee6e43f.chunk.css",
+  "main.js": "/reactTest/static/js/main.10ce3b47.chunk.js",
+  "main.js.map": "/reactTest/static/js/main.10ce3b47.chunk.js.map",
+  "runtime~main.js": "/reactTest/static/js/runtime~main.3be99dba.js",
+  "runtime~main.js.map": "/reactTest/static/js/runtime~main.3be99dba.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/reactTest/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/reactTest/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/reactTest/index.html",
+  "precache-manifest.121efc2aa481e6f427c8c9143f6f6490.js": "/reactTest/precache-manifest.121efc2aa481e6f427c8c9143f6f6490.js",
+  "service-worker.js": "/reactTest/service-worker.js",
+  "static/css/main.9ee6e43f.chunk.css.map": "/reactTest/static/css/main.9ee6e43f.chunk.css.map",
+  "static/media/logo.svg": "/reactTest/static/media/logo.5d5d9eef.svg"
 }
