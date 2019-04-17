@@ -1,28 +1,21 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import {BrowserRouter, Route, Switch} from 'react-router-dom'
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Working!!!!
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            learn  React
-          </a>
-        </header>
-      </div>
-    );
-  }
+import Page0 from './components/page0/Page0'
+import Page1 from './components/page1/Paje1'
+import Page2 from './components/page2/Page2'
+
+function App() {
+  return (
+    <BrowserRouter>
+      <Switch>
+        <Route exact path="/" component={Page0} />
+        <Route exact path="/page1" component={Page1} />
+        <Route exact path="/page2" component={Page2} />
+      </Switch>
+    </BrowserRouter>
+  )
 }
 
 export default App;
